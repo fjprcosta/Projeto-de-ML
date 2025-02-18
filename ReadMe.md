@@ -1,4 +1,4 @@
-<h1>Jogo do número secreto</h1>
+<h1>Machine Learning Project</h1>
 
 <h2>🔖 Sobre</h2>
 <p>Projeto de Transfer Learning em Python usando Colab.</p>
